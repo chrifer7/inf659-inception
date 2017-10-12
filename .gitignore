@@ -12,3 +12,5 @@
 *.zip
 *.tar.gz
 *.ckpt
+*.pb
+*.tgz
