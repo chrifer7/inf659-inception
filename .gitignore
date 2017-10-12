@@ -5,3 +5,10 @@
 /bazel-inception
 /bazel-testlogs
 /bazel-tf
+
+#Deep Learning
+*.model
+*.h5
+*.zip
+*.tar.gz
+*.ckpt
