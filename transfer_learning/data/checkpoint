@@ -1,0 +1,2 @@
+model_checkpoint_path: "dm-challenge"
+all_model_checkpoint_paths: "dm-challenge"
